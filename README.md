@@ -1,1 +1,2 @@
-# gambutkartovis
+# Tugas Kartovis
+Satrio Rifqi W.
